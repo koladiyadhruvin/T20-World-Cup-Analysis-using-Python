@@ -34,6 +34,12 @@ For analysis of T20 world cup 2022 using python this dataset is used.
 - **Pandas** : For data manipulation and analysis.
 - **Plotly** : For data visualization.
 
+## Screenshots
+
+![Top Scorer](https://github.com/koladiyadhruvin/T20-World-Cup-Analysis-using-Python/blob/main/top%20scorer.png)
+
+![Bat First or Second by Venue](https://github.com/koladiyadhruvin/T20-World-Cup-Analysis-using-Python/blob/main/bat%20first-second%20by%20venue.png)
+
 ## Summary
 
 
